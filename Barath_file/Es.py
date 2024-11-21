@@ -1,2 +1,2 @@
 print("Hello");
-Print("Hi");
+Print("Hello everyone");
